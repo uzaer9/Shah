@@ -9,8 +9,8 @@ const Transformations = () => {
       name: "Rahul Gorlewale",
       age: 28,
       transformation: "Lost 25kg in 6 months",
-      before: "public/rk.jpg",
-      after: "public/rkA.jpg",
+      before: "/rk.jpg",
+      after: "/rkA.jpg",
       testimonial: "Shahladdin's approach completely changed my relationship with fitness. The personalized nutrition plan and consistent support helped me achieve what I thought was impossible.",
       rating: 5
     },
@@ -18,8 +18,8 @@ const Transformations = () => {
       name: "Umar Jakatdar",
       age: 21,
       transformation: "Gained 8kg lean muscle",
-      before: "public/umB.jpg",
-      after: "public/umA.jpg",
+      before: "/umB.jpg",
+      after: "/umA.jpg",
       testimonial: "As a college student, I struggled to find time for fitness. Shahladdin's flexible coaching program fit perfectly into my schedule and helped me gain muscle without sacrificing my studies.",
       rating: 5
     },
@@ -27,8 +27,8 @@ const Transformations = () => {
       name: "Suresh Gortyal",
       age: 35,
       transformation: "Complete body recomposition",
-      before: "public/Sb.jpg",
-      after: "public/sA.jpg",
+      before: "/Sb.jpg",
+      after: "/sA.jpg",
       testimonial: "The knowledge and dedication Shahladdin brings is unmatched. He doesn't just give you a plan he educates you on why each element matters.",
       rating: 5
     }
